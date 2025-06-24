@@ -79,6 +79,20 @@
 ### Fine-Tuning Data
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2307.01003 -red?logo=arxiv" height="14" /> [Visual Instruction Tuning with Polite Flamingo](https://arxiv.org/abs/2307.01003). [CleverFlamingo]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2311.03079 -red?logo=arxiv" height="14" /> [CogVLM: Visual Expert for Pretrained Language Models](https://arxiv.org/abs/2311.03079). [CogVLM]
+- - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
+- - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
+- - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
+- - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
+- - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
+- - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
 
 
 ### Benchmarks
