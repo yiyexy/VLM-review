@@ -78,7 +78,7 @@
 
 ### Fine-Tuning Data
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2312.00849 -red?logo=arxiv" height="14" /> [RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://arxiv.org/abs/2312.00849). [RLHF-V]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
 
 
 ### Benchmarks
