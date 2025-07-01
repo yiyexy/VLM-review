@@ -86,13 +86,14 @@
 - - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [What matters when building vision-language models?](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a03037317560b8c5f2fb4b6466d4c439-Abstract-Conference.html). [Idefics2]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2305.06500 -red?logo=arxiv" height="14" /> [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning). [InstructBLIP]
 - - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
-- - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
-- - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
-- - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597 -red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). [BLIP-2]
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.09936 -red?logo=arxiv" height="14" /> [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936). [BLIVA]
+
+
 
 
 ### Benchmarks
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.10638 -red?logo=arxiv" height="14" /> [Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions](https://arxiv.org/abs/2406.10638). [MMR]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.17126 -red?logo=arxiv" height="14" /> [MM-SpuBench: Towards Better Understanding of Spurious Biases in Multimodal LLMs](https://arxiv.org/abs/2406.17126). [MM-SpuBench]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.17806 -red?logo=arxiv" height="14" /> [MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?](https://arxiv.org/abs/2406.17806). [MOSSBenchh]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2401.07529 -red?logo=arxiv" height="14" /> [MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception](https://arxiv.org/abs/2401.07529). [MM-SAP]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.04152 -red?logo=arxiv" height="14" /> [Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions](https://arxiv.org/abs/2308.04152). [DEMON]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.08350 -red?logo=arxiv" height="14" /> [CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model](https://arxiv.org/abs/2403.08350). [CoIN]
