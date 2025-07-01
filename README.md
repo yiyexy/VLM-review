@@ -77,7 +77,19 @@
 
 
 ### Fine-Tuning Data
+- <img alt="NeurIPS" src="https://img.shields.io/badge/NeurIPS-2024-0596D3?logo=neurips" height="14" /> [What matters when building vision-language models?](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a03037317560b8c5f2fb4b6466d4c439-Abstract-Conference.html). [Idefics2]
+
+
 
 
 
 ### Benchmarks
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.10638 -red?logo=arxiv" height="14" /> [Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions](https://arxiv.org/abs/2406.10638). [MMR]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.17126 -red?logo=arxiv" height="14" /> [MM-SpuBench: Towards Better Understanding of Spurious Biases in Multimodal LLMs](https://arxiv.org/abs/2406.17126). [MM-SpuBench]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.17806 -red?logo=arxiv" height="14" /> [MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?](https://arxiv.org/abs/2406.17806). [MOSSBenchh]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2401.07529 -red?logo=arxiv" height="14" /> [MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception](https://arxiv.org/abs/2401.07529). [MM-SAP]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.04152 -red?logo=arxiv" height="14" /> [Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions](https://arxiv.org/abs/2308.04152). [DEMON]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.08350 -red?logo=arxiv" height="14" /> [CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model](https://arxiv.org/abs/2403.08350). [CoIN]
+- 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2407.01509 -red?logo=arxiv" height="14" /> [MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/abs/2407.01509). [MIA-Bench]
+
