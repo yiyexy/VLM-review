@@ -77,7 +77,7 @@
 
 
 ### Fine-Tuning Data
-- <img alt="NeurIPS" src="https://img.shields.io/badge/NeurIPS-2023-0596D3?logo=neurips" height="14" /> [What matters when building vision-language models?](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a03037317560b8c5f2fb4b6466d4c439-Abstract-Conference.html). [Idefics2]
+- <img alt="NeurIPS" src="https://img.shields.io/badge/NeurIPS-2024-0596D3?logo=neurips" height="14" /> [What matters when building vision-language models?](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a03037317560b8c5f2fb4b6466d4c439-Abstract-Conference.html). [Idefics2]
 
 
 
