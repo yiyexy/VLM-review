@@ -97,3 +97,10 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2401.07529 -red?logo=arxiv" height="14" /> [MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception](https://arxiv.org/abs/2401.07529). [MM-SAP]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.04152 -red?logo=arxiv" height="14" /> [Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions](https://arxiv.org/abs/2308.04152). [DEMON]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.08350 -red?logo=arxiv" height="14" /> [CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model](https://arxiv.org/abs/2403.08350). [CoIN]
+- 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2407.01509 -red?logo=arxiv" height="14" /> [MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/abs/2407.01509). [MIA-Bench]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.17126 -red?logo=arxiv" height="14" /> [MM-SpuBench: Towards Better Understanding of Spurious Biases in Multimodal LLMs](https://arxiv.org/abs/2406.17126). [MM-SpuBench]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.17806 -red?logo=arxiv" height="14" /> [MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?](https://arxiv.org/abs/2406.17806). [MOSSBenchh]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2401.07529 -red?logo=arxiv" height="14" /> [MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception](https://arxiv.org/abs/2401.07529). [MM-SAP]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.04152 -red?logo=arxiv" height="14" /> [Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions](https://arxiv.org/abs/2308.04152). [DEMON]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.08350 -red?logo=arxiv" height="14" /> [CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model](https://arxiv.org/abs/2403.08350). [CoIN]
