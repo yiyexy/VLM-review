@@ -1,4 +1,4 @@
-  # VLM-review
+# VLM-review
 
 🔥🔥🔥 A paper list for **Advancing Vision-Language Models: Critical Insights from Methodological Innovations and Data Curation**
 
