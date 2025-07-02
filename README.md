@@ -31,7 +31,6 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2502.14786 -red?logo=arxiv" height="14" /> [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://arxiv.org/abs/2502.14786). [SigLip2]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2312.14238 -red?logo=arxiv" height="14" /> [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238). [InternVL]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.14402 -red?logo=arxiv" height="14" /> [Multimodal Autoregressive Pre-training of Large Vision Encoders](https://arxiv.org/abs/2411.14402). [AIMv2]
-- 
 
 
 
@@ -57,6 +56,11 @@
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.12937 -red?logo=arxiv" height="14" /> [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/abs/2503.12937). [R1-VL]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2312.00849 -red?logo=arxiv" height="14" /> [RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://arxiv.org/abs/2312.00849). [RLHF-V]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.17265 -red?logo=arxiv" height="14" /> [A Topic-level Self-Correctional Approach to Mitigate Hallucinations in MLLMs](https://arxiv.org/abs/2411.17265v2).
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.15926 -red?logo=arxiv" height="14" /> [Mitigating Object Hallucination via Concentric Causal Attention](https://arxiv.org/abs/2410.15926).
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.16656 -red?logo=arxiv" height="14" /> [Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://arxiv.org/abs/2504.16656). [Skywork R1V2]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2502.19634 -red?logo=arxiv" height="14" /> [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://arxiv.org/abs/2502.19634). [MedVLM-R1]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.01785 -red?logo=arxiv" height="14" /> [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785). [Visual-RFT]
 
 
 
@@ -90,6 +94,5 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2401.07529 -red?logo=arxiv" height="14" /> [MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception](https://arxiv.org/abs/2401.07529). [MM-SAP]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.04152 -red?logo=arxiv" height="14" /> [Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions](https://arxiv.org/abs/2308.04152). [DEMON]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.08350 -red?logo=arxiv" height="14" /> [CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model](https://arxiv.org/abs/2403.08350). [CoIN]
-- 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2407.01509 -red?logo=arxiv" height="14" /> [MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/abs/2407.01509). [MIA-Bench]
 
