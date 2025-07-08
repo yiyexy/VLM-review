@@ -96,3 +96,13 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.08350 -red?logo=arxiv" height="14" /> [CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model](https://arxiv.org/abs/2403.08350). [CoIN]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2407.01509 -red?logo=arxiv" height="14" /> [MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/abs/2407.01509). [MIA-Bench]
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2311.17005 -red?logo=arxiv" height="14" /> [MVBench: A Comprehensive Multi-modal Video Understanding Benchmark](https://arxiv.org/abs/2311.17005). [MVBench]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.07057 -red?logo=arxiv" height="14" /> [Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study](https://arxiv.org/abs/2406.07057). [MultiTrust]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.04264 -red?logo=arxiv" height="14" /> [MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding](https://arxiv.org/abs/2406.04264). [MLVU]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.09367 -red?logo=arxiv" height="14" /> [Needle In A Video Haystack: A Scalable Synthetic Framework for Benchmarking Video MLLMs](https://arxiv.org/abs/2406.09367). [VideoNIAH]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.14129 -red?logo=arxiv" height="14" /> [Towards Event-oriented Long Video Understanding](https://arxiv.org/abs/2406.14129). [Event-Bench]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2310.14566 -red?logo=arxiv" height="14" /> [HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models](https://arxiv.org/abs/2310.14566). [HallusionBench]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2305.10355 -red?logo=arxiv" height="14" /> [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2305.10355). [POPE]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2405.11985 -red?logo=arxiv" height="14" /> [MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering](https://arxiv.org/abs/2405.11985). [MTVQA]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-1903.02741 -red?logo=arxiv" height="14" /> [RAVEN: A Dataset for Relational and Analogical Visual rEasoNing](https://arxiv.org/abs/1903.02741). [RAVEN]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2405.12523 -red?logo=arxiv" height="14" /> [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2405.12523). [MMUBench]
