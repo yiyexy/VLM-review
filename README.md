@@ -110,6 +110,15 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.07542 -red?logo=arxiv" height="14" />[Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/abs/2501.07542).[MVoT]
 - <img alt="iclr" src="https://img.shields.io/badge/ICLR-2024-purple?logo=iclr" height="14" />[Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding](https://openreview.net/forum?id=4L0xnS4GQM).
 - <img alt="iclr" src="https://img.shields.io/badge/ICLR-2024-purple?logo=iclr" height="14" />[COT3DREF: CHAIN-OF-THOUGHTS DATA-EFFICIENT 3D VISUAL GROUNDING](https://openreview.net/forum?id=ORUiqcLpV6).[COT3DREF]
+- <img alt="acm mm" src="https://img.shields.io/badge/ACM%20MM-2024-blue?logo=acm" height="14" />[A Picture Is Worth a Graph: A Blueprint Debate Paradigm for Multimodal Reasoning](https://arxiv.org/abs/2403.14972).[BDoG]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.05226 -red?logo=arxiv" height="14" />[See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning](https://arxiv.org/abs/2301.05226).[IPVR]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2311.09241 -red?logo=arxiv" height="14" />[CHAIN OF IMAGES FOR INTUITIVELY REASONING](https://arxiv.org/abs/2311.09241).
+- <img alt="cvpr" src="https://img.shields.io/badge/CVPR-2024-blue?logo=cvpr" height="14" />[Compositional Chain-of-Thought Prompting for Large Multimodal Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Mitra_Compositional_Chain-of-Thought_Prompting_for_Large_Multimodal_Models_CVPR_2024_paper.pdf). [CCoT]
+- <img alt="acml" src="https://img.shields.io/badge/ACML-2024-green?logo=acm" height="14" />[DCoT: Dual Chain-of-Thought Prompting for Large Multimodal Models](https://openreview.net/pdf?id=0saecDOdh2). [DCoT]
+- <img alt="iccv" src="https://img.shields.io/badge/ICCV-2023-orange?logo=cc" height="14" />[CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection](https://arxiv.org/abs/2309.01093). [CoTDet]
+- <img alt="icml" src="https://img.shields.io/badge/ICML-2025-yellow?logo=icml" height="14" />[REFOCUS: Visual Editing as a Chain of Thought for Structured Image Understanding](https://icml.cc/virtual/2025/poster/44816). [REFOCUS]
+- <img alt="iclr" src="https://img.shields.io/badge/ICLR-2024-purple?logo=iclr" height="14" />[VISUAL-O1: UNDERSTANDING AMBIGUOUS IN-STRUCTIONS VIA MULTI-MODAL MULTI-TURN CHAIN-OF-THOUGHTS REASONING](https://openreview.net/forum?id=v9CDpLpjiE). [VISUAL-O1]
+- <img alt="corl" src="https://img.shields.io/badge/CoRL-2024-red?logo=robotframework" height="14" />[Robotic Control via Embodied Chain-of-Thought Reasoning](https://openreview.net/forum?id=S70MgnIA0v).
 
 #### Agent-based and Expert Integration
 
