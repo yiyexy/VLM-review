@@ -139,7 +139,7 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.23830 -red?logo=arxiv" height="14" />[EvoMoE: Expert Evolution in Mixture of Experts for Multimodal Large Language Models](https://arxiv.org/abs/2505.23830).[EvoMoE]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.06986 -red?logo=arxiv" height="14" />[LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models](https://arxiv.org/abs/2501.06986).[LEO]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.16400 -red?logo=arxiv" height="14" />[VipAct: Visual Perception Enhancement via Specialized VLM Agent Collaboration and Tool use](https://arxiv.org/abs/2410.16400).[VipAct]
-- <img alt="cvpr" src="https://img.shields.io/badge/CVPR-2024-blue?logo=cvpr" height="14" />[CogAgent: A Visual Language Model for GUI Agents](). [CogAgent]
+- <img alt="cvpr" src="https://img.shields.io/badge/CVPR-2024-blue?logo=cvpr" height="14" />[CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914). [CogAgent]
 - <img alt="iclr" src="https://img.shields.io/badge/ICLR-2025-purple?logo=iclr" height="14" />[VLM-Q Learning: Aligning Vision-Language Models for Interactive Decision-Making](https://arxiv.org/abs/2505.03181).
 - <img alt="ecai" src="https://img.shields.io/badge/ECAI-2024-darkblue?logo=ai" height="14" />[Multi-Agent Planning Using Visual Language Models](https://arxiv.org/abs/2408.05478).
 
