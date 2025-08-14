@@ -119,6 +119,14 @@
 - <img alt="icml" src="https://img.shields.io/badge/ICML-2025-yellow?logo=icml" height="14" />[REFOCUS: Visual Editing as a Chain of Thought for Structured Image Understanding](https://icml.cc/virtual/2025/poster/44816). [REFOCUS]
 - <img alt="iclr" src="https://img.shields.io/badge/ICLR-2024-purple?logo=iclr" height="14" />[VISUAL-O1: UNDERSTANDING AMBIGUOUS IN-STRUCTIONS VIA MULTI-MODAL MULTI-TURN CHAIN-OF-THOUGHTS REASONING](https://openreview.net/forum?id=v9CDpLpjiE). [VISUAL-O1]
 - <img alt="corl" src="https://img.shields.io/badge/CoRL-2024-red?logo=robotframework" height="14" />[Robotic Control via Embodied Chain-of-Thought Reasoning](https://openreview.net/forum?id=S70MgnIA0v).
+- <img alt="emnlp" src="https://img.shields.io/badge/EMNLP-2024-brown?logo=nlp" height="14" />[MedCoT: Medical Chain of Thought via Hierarchical Expert](https://arxiv.org/abs/2412.13736). [MedCoT]
+- <img alt="acm mm" src="https://img.shields.io/badge/ACM%20MM-2024-blue?logo=acm" height="14" />[PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis](https://arxiv.org/abs/2408.09481). [PanSent]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.06232 -red?logo=arxiv" height="14" />[Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning](https://arxiv.org/abs/2503.06232).
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.12591 -red?logo=arxiv" height="14" />[Thinking Before Looking:Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination](https://arxiv.org/abs/2411.12591).
+- <img alt="cvpr" src="https://img.shields.io/badge/CVPR-2025-blue?logo=cvpr" height="14" />[Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2411.14432). [Insight-V]
+- <img alt="cvpr" src="https://img.shields.io/badge/CVPR-2024-blue?logo=cvpr" height="14" />[Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548).
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.01904 -red?logo=arxiv" height="14" />[Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](https://arxiv.org/abs/2501.01904). [Virgo]
+- 
 
 #### Agent-based and Expert Integration
 
