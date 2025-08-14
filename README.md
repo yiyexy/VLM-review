@@ -126,7 +126,6 @@
 - <img alt="cvpr" src="https://img.shields.io/badge/CVPR-2025-blue?logo=cvpr" height="14" />[Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2411.14432). [Insight-V]
 - <img alt="cvpr" src="https://img.shields.io/badge/CVPR-2024-blue?logo=cvpr" height="14" />[Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548).
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.01904 -red?logo=arxiv" height="14" />[Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](https://arxiv.org/abs/2501.01904). [Virgo]
-- 
 
 #### Agent-based and Expert Integration
 
@@ -140,6 +139,7 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.23830 -red?logo=arxiv" height="14" />[EvoMoE: Expert Evolution in Mixture of Experts for Multimodal Large Language Models](https://arxiv.org/abs/2505.23830).[EvoMoE]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.06986 -red?logo=arxiv" height="14" />[LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models](https://arxiv.org/abs/2501.06986).[LEO]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.16400 -red?logo=arxiv" height="14" />[VipAct: Visual Perception Enhancement via Specialized VLM Agent Collaboration and Tool use](https://arxiv.org/abs/2410.16400).[VipAct]
+- <img alt="cvpr" src="https://img.shields.io/badge/CVPR-2024-blue?logo=cvpr" height="14" />[CogAgent: A Visual Language Model for GUI Agents](). [CogAgent]
 
 #### Retrieval-Augmented Generation (RAG) for VLMs
 
