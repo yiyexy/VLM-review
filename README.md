@@ -141,7 +141,11 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.16400 -red?logo=arxiv" height="14" />[VipAct: Visual Perception Enhancement via Specialized VLM Agent Collaboration and Tool use](https://arxiv.org/abs/2410.16400).[VipAct]
 - <img alt="cvpr" src="https://img.shields.io/badge/CVPR-2024-blue?logo=cvpr" height="14" />[CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914). [CogAgent]
 - <img alt="iclr" src="https://img.shields.io/badge/ICLR-2025-purple?logo=iclr" height="14" />[VLM-Q Learning: Aligning Vision-Language Models for Interactive Decision-Making](https://arxiv.org/abs/2505.03181).
-- <img alt="ecai" src="https://img.shields.io/badge/ECAI-2024-darkblue?logo=ai" height="14" />[Multi-Agent Planning Using Visual Language Models](https://arxiv.org/abs/2408.05478).
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.05478 -red?logo=arxiv" height="14" />[Multi-Agent Planning Using Visual Language Models](https://arxiv.org/abs/2408.05478).
+- <img alt="icma" src="https://img.shields.io/badge/ICMA-2024-teal?logo=conference" height="14" />[InsightSee: Advancing Multi-agent Vision-Language Models for Enhanced Visual Understanding](https://arxiv.org/abs/2405.20795). [InsightSee]
+- <img alt="iclr" src="https://img.shields.io/badge/ICLR-2024-purple?logo=iclr" height="14" />[Agentverse: Facilitating Multi - agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848). [Agentverse]
+- <img alt="iclr" src="https://img.shields.io/badge/ICLR-2024-purple?logo=iclr" height="14" />[Routing Experts: Learning to Route Dynamic Experts in Multi-modal Large Language Models](https://arxiv.org/abs/2407.14093).
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.10568 -red?logo=arxiv" height="14" />[MoPE: Mixture of Prompt Experts for Parameter Efficient and Scalable Multimodal Fusion](https://arxiv.org/abs/2403.10568).
 
 #### Retrieval-Augmented Generation (RAG) for VLMs
 
