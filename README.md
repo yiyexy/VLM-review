@@ -146,6 +146,15 @@
 - <img alt="iclr" src="https://img.shields.io/badge/ICLR-2024-purple?logo=iclr" height="14" />[Agentverse: Facilitating Multi - agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848). [Agentverse]
 - <img alt="iclr" src="https://img.shields.io/badge/ICLR-2024-purple?logo=iclr" height="14" />[Routing Experts: Learning to Route Dynamic Experts in Multi-modal Large Language Models](https://arxiv.org/abs/2407.14093).
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.10568 -red?logo=arxiv" height="14" />[MoPE: Mixture of Prompt Experts for Parameter Efficient and Scalable Multimodal Fusion](https://arxiv.org/abs/2403.10568).
+- <img alt="icml" src="https://img.shields.io/badge/ICML-2025-yellow?logo=icml" height="14" />[R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](https://arxiv.org/abs/2502.20395). [R2-T2]
+- <img alt="cvpr" src="https://img.shields.io/badge/CVPR-2025-blue?logo=cvpr" height="14" />[Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning](https://arxiv.org/abs/2411.18203). [Critic-V]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.23399 -red?logo=arxiv" height="14" />[GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning](https://arxiv.org/abs/2505.23399). [GAM-Agent]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.20718 -red?logo=arxiv" height="14" />[VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models](https://arxiv.org/abs/2505.20718).
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.07815 -red?logo=arxiv" height="14" />[Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models](https://arxiv.org/html/2505.07815v2).
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.09027 -red?logo=arxiv" height="14" />[VisionGPT: Vision‑Language Understanding Agent Using Generalized Multimodal Framework](https://arxiv.org/abs/2403.09027). [VisionGPT]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2401.17221 -red?logo=arxiv" height="14" />[MouSi: Poly-Visual-Expert Vision-Language Models](https://arxiv.org/abs/2401.17221). [MouSi]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.17770 -red?logo=arxiv" height="14" />[Mg-llava: Towards multi-granularity visual instruction tuning](http://arxiv.org/abs/2406.17770). [Mg-llava]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.13980 -red?logo=arxiv" height="14" />[Enhancing advanced visual reasoning ability of large language models](https://arxiv.org/abs/2409.13980).
 
 #### Retrieval-Augmented Generation (RAG) for VLMs
 
