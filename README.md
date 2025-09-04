@@ -155,6 +155,10 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2401.17221 -red?logo=arxiv" height="14" />[MouSi: Poly-Visual-Expert Vision-Language Models](https://arxiv.org/abs/2401.17221). [MouSi]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.17770 -red?logo=arxiv" height="14" />[Mg-llava: Towards multi-granularity visual instruction tuning](http://arxiv.org/abs/2406.17770). [Mg-llava]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.13980 -red?logo=arxiv" height="14" />[Enhancing advanced visual reasoning ability of large language models](https://arxiv.org/abs/2409.13980).
+- <img alt="iccv" src="https://img.shields.io/badge/ICCV-2025-orange?logo=cc" height="14" />[METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models](https://arxiv.org/abs/2507.20842). [METEOR]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2506.21924 -red?logo=arxiv" height="14" />[SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D Visual Grounding](https://arxiv.org/abs/2506.21924). [SPAZER]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.22805 -red?logo=arxiv" height="14" />[MoCHA: Advanced Vision-Language Reasoning with MoE Connector and Hierarchical Group Attention](https://arxiv.org/abs/2507.22805). [MoCHA]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.21741 -red?logo=arxiv" height="14" />[MAGE: Multimodal Alignment and Generation Enhancement via Bridging Visual and Semantic Spaces](https://arxiv.org/abs/2507.21741). [MAGE]
 
 #### Retrieval-Augmented Generation (RAG) for VLMs
 
